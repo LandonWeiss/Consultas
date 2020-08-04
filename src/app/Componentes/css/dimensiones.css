@@ -1,0 +1,23 @@
+.contenedor1{
+    background-color: black;
+    width: 85%;
+    height: auto;
+    margin: 100px;
+}
+html{
+    background-image: url(../../../assets/patron_fondo4.jpg);
+    
+}
+.navegador_Principal{
+    width: 70%;
+    height: 30px;
+    margin-bottom: 10px;
+    background-color: white;
+    
+    
+}
+body {
+    padding: 0px;
+    margin: 0em;
+
+}
