@@ -1,23 +1,56 @@
+
 .contenedor1{
     background-color: black;
-    width: 85%;
+    opacity: 90%;
+    width: 90%;
     height: auto;
-    margin: 100px;
+    margin: auto;
+    border-radius: 0.5em;
+    padding: 20px;
+    padding-bottom: 200px;
+    margin-bottom: 200px;
 }
-html{
-    background-image: url(../../../assets/patron_fondo4.jpg);
+.contenedor2{
+    margin: auto;
+}
+.contenedor_Nav{    
+    padding: 10px;
+    width: 250px;
+    height: auto;
+}
+
+.contenedor_Titulo{
+    background-color: black;
+    opacity: 70%;
+    width: 35%;
     
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 0.5em;
+    text-align: center;
+    padding: .3em;
+    
+}
+.fondo{
+    background-image: url(../../../assets/patron_fondo9.jpg);
+    height: auto;
+    padding-bottom: 100px;
 }
 .navegador_Principal{
-    width: 70%;
-    height: 30px;
-    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 0.5em;
+    width: 200px;
+    height: 250px;
+    margin: 10px;
     background-color: white;
-    
-    
+
+}
+.navegador_Principal ul li{
+    list-style: none;
+    margin-bottom: 20px;
 }
 body {
-    padding: 0px;
-    margin: 0em;
-
+    padding-top: 20px;
+    margin: 0em;    
 }

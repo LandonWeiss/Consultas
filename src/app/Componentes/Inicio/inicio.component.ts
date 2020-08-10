@@ -5,6 +5,6 @@ import {Component} from '@angular/core'
     templateUrl: './inicio.component.html',
     styleUrls: ['../css/dimensiones.css','../css/fuentes.css']
 }) export class componenteInicio {
-    title = 'delellelele uuuup';
+    
   }
   

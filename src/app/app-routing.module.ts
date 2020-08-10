@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import {componenteInicio} from 'src/app/Componentes/Inicio/inicio.component'
+import {componenteInicio} from 'src/app/Componentes/Inicio/inicio.component';
 
 const routes: Routes = [
   {path: '', redirectTo: 'inicio', pathMatch: 'full'},
