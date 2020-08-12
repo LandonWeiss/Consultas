@@ -17,7 +17,6 @@
 
 .columna1{
     width: 20%;
-    
     height: auto;
     padding: 10px;
 }
@@ -25,12 +24,24 @@
     padding: 10px;
     width: 50%;
     text-align: center;
+    height: auto;
     
+}
+.columna3{
+    width: 20%;
+    text-align: center;
+    height: auto;
+}
+.foto_Contacto{
+    width: 60%;
 }
 .contenedor_Nav{       
     padding: 10px;
     width: 250px;
     margin-bottom: 25px;
+}
+.columna3 ul li{
+    margin: 25px;
 }
 
 .contenedor_Titulo{
