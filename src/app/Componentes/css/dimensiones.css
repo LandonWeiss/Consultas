@@ -6,17 +6,31 @@
     height: auto;
     margin: auto;
     border-radius: 0.5em;
-    padding: 20px;
-    padding-bottom: 200px;
+    padding: 40px;
+    padding-bottom: 100px;
     margin-bottom: 200px;
+    overflow: hidden;
 }
-.contenedor2{
-    margin: auto;
+.contenedor1 div{
+    float: left;
 }
-.contenedor_Nav{    
+
+.columna1{
+    width: 20%;
+    
+    height: auto;
+    padding: 10px;
+}
+.columna2{
+    padding: 10px;
+    width: 50%;
+    text-align: center;
+    
+}
+.contenedor_Nav{       
     padding: 10px;
     width: 250px;
-    height: auto;
+    margin-bottom: 25px;
 }
 
 .contenedor_Titulo{
@@ -31,6 +45,12 @@
     text-align: center;
     padding: .3em;
     
+}
+.enlace_Inicio{
+    border-radius: 0.5em;
+    background-color: white;
+    padding: 10px;
+    margin: 25px;    
 }
 .fondo{
     background-image: url(../../../assets/patron_fondo9.jpg);
